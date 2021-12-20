@@ -8,3 +8,8 @@ fieldset {
   margin-bottom: 20px;
   padding-bottom: 0;
 }
+
+label[for="cats-yes"],
+label[for="cats-no"] {
+  display: inline-block;
+}
